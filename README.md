@@ -104,7 +104,7 @@ ret
 ## Output  
  <img width="1920" height="1200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/76bd52ce-df95-4285-b007-1222fbe7406d" />
 ## Programs for logical operations
- ```
+```
 mov ax,2345h
 mov bx,1111h
 
@@ -122,6 +122,7 @@ mov [1004h],ax
 mov ax,2345h
 xor ax,bx
 mov [1006h],ax
+
 ``` 
 
 ## Output  
