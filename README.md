@@ -99,11 +99,7 @@ div dh
 mov [1006h],ax    
 ret
 ```
-
-
-## Output  
- <img width="1920" height="1200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/76bd52ce-df95-4285-b007-1222fbe7406d" />
-## Programs for logical operations
+program for logical operation:
 ```
 mov ax,2345h
 mov bx,1111h
@@ -122,10 +118,12 @@ mov [1004h],ax
 mov ax,2345h
 xor ax,bx
 mov [1006h],ax
+```
 
-``` 
 
 ## Output  
+ <img width="1920" height="1200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/76bd52ce-df95-4285-b007-1222fbe7406d" />
+
 <img width="1920" height="1200" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/56c7bb88-4988-40c0-9e2b-48b35151b6fa" />
 
 
