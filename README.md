@@ -101,6 +101,8 @@ ret
 ```
 program for logical operation:
 ```
+org 100h
+
 mov ax,2345h
 mov bx,1111h
 
